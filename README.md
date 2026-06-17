@@ -8,6 +8,17 @@ Extension Repository:
 
 [yt-plugin GitHub Repository](https://github.com/yaseenddar/yt-plugin?utm_source=chatgpt.com)
 
+A small chrome plugin to detect youtube comment sentiments
+==============================
+Snaps:
+![alt text](image-4.png)
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
 ---
 
 ## Installation
